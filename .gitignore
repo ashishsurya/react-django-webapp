@@ -1,5 +1,5 @@
 /.vscode
 /env
-/frontend/node_nodules
+/frontend/node_modules
 /frontend/package.json
 /frontend/package-lock.json
